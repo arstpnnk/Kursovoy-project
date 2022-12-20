@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed&display=swap" rel="stylesheet">
+    <!-- Bootstrap CSS (Cloudflare CDN) -->
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.1/css/bootstrap.min.css" integrity="sha512-T584yQ/tdRR5QwOpfvDfVQUidzfgc2339Lc8uBDtcp/wYu80d7jwBgAxbyMh0a9YM9F8N3tdErpFI8iaGx6x5g==" crossorigin="anonymous" referrerpolicy="no-referrer">
+     <link rel="stylesheet" type="text/css" href="D:/курс 2/кп/css/style.css">
+      <link rel="stylesheet" type="text/css" href="D:/курс 2/кп/css/media.css">
+     <!-- jQuery (Cloudflare CDN) -->
+     <script defer src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+     <!-- Bootstrap Bundle JS (Cloudflare CDN) -->
+     <script defer src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.1/js/bootstrap.min.js" integrity="sha512-UR25UO94eTnCVwjbXozyeVd6ZqpaAE9naiEUBK/A+QDbfSTQFhPGj5lOR6d8tsgbBk84Ggb5A3EkjsOgPRPcKA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+     <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous"></script>
+     <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.min.js" integrity="sha384-+sLIOodYLS7CIrQpBjl+C7nPvqq+FbNUBDunl/OZv93DB7Ln/533i8e/mZXLi/P+" crossorigin="anonymous"></script>  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
+    <title>Snake</title>
+  </head>
+  <body>
+<header class="sticky-top"> 
+<nav  class="navbar navbar-expand-md navbar-dark">
+  <div class="container-fluid">
+    <a href="D:/курс 2/кп/index.html" class="navbar-brand"><img src="D:/курс 2/кп/images/logo.png" class="img" width="123" height="128" class="d-inline-block"></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
+    <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav">
+            <li class="nav-item active">
+              <a href="D:/курс 2/кп/menu.html" class="nav-link">Меню</a>
+            </li>
+            <li class="nav-item active">
+              <a href="D:/курс 2/кп/contact.html" class="nav-link">Контакты</a>
+            </li>
+            <li class="nav-item active">
+              <a href="D:/курс 2/кп/about.html" class="nav-link">О нас</a>
+            </li>
+            <li class="nav-item active">
+              <a href="D:/курс 2/кп/client.html" class="nav-link">Клиентам</a>
+            </li>
+            <li class="nav-item active">
+              <a href="D:/курс 2/кп/vacancy.html" class="nav-link">Вакансии</a>
+            </li>
+          </ul>
+    </div>
+  </div>
+</nav>
+</header>
+<main>
+<div>
+     <img src="D:/курс 2/кп/images/cafe.png" class="img1" class="img-fluid" alt="Responsive image"><p class="vl"></p><p class="text">Snake - это не только уютные кофейни с вкусным кофе и свежей выпечкой. Еще это большая пекарня, где каждый день команда талантливых кондитеров, влюбленных в свое дело, печет для вас вкуснейшие торты и десерты на заказ.</p></img>
+</div>
+
+<div class="container-fluid mt-2">
+  <h1 class="zagolovok">Наше меню</h1>
+      <div class="row mt-2">
+    <div class="col-4">
+      <img src="D:/курс 2/кп/images/cake.png" alt="" class="menu_card__img">
+      <h3 class="menu_card__title">Выпечка</h3>
+    </div>
+    <div class="col-4">
+      <img src="D:/курс 2/кп/images/coffe.png" alt="" class="menu_card__img">
+      <h3 class="menu_card__title">Кофе и напитки</h3>
+    </div>
+    <div class="col-4">
+      <img src="D:/курс 2/кп/images/lunch.jpg" alt="" class="menu_card__img">
+      <h3 class="menu_card__title">Завтраки и ланчи</h3>
+    </div>
+  </div>
+</div>
+
+<div class="container-fluid coffe_block mt-5">
+     <div class="coffee">
+    <p class="zagolovok2">Кофе по-восточному</p>
+    <table class="container col-10 mt-5">
+      <tr>
+        <td class="pt-1 pb-1 title">Классический черный</td>
+        <td class="table-otst"></td>
+        <td class="pt-1 pb-1 title">Сливочный черный</td>
+      </tr>
+      <tr>
+        <td class=" text2">Кофе светлой обжарки, Эфиопия Иргачиф, заваривается классическим методом в турке. Благодаря поствепенному и ранвомерному нагреву, во вкусе раскрываются сладкие цветочные нотки и лимонная кислинка.</td>
+            <td class="table-otst"></td>
+        <td class=" text2">Кофе заваривается классическим методом в турке с добавлением растительных чливок 33% жирности. Благодаря чесу получается мягкий и нежный сливочный напиток, очень похожий на капучино.</td>
+      </tr>
+    </table>
+  </div>
+</div>
+<div class="container-fluid mt-5">
+  <p class="zagolovok">Наши заведения</p>
+  <div class="row">
+  <div class="col-3">
+          <p class="adres">ТЦ Galleria</p>
+          <p class="adres">Пр-т Победителей, 9</p>
+          <p class="adres">+375297876543</p>
+  </div>
+    <div class="col-3">
+          <p class="adres">ТЦ Метрополь</p>
+          <p class="adres">Ул. Немига, 5</p>
+          <p class="adres">+375445963548</p>
+  </div>
+    <div class="col-3">
+          <p class="adres">Володарского 12</p>
+          <p class="adres">Володарского 12</p>
+          <p class="adres">+375442895634</p>
+  </div>
+    <div class="col-3">
+          <p class="adres">ТЦ Galileo</p>
+          <p class="adres">Ул. Бобруйская, 6</p>
+          <p class="adres">+375296583215</p>
+  </div>
+</div>
+<div class="karta_block"><a href="https://yandex.by/maps/157/minsk/?utm_medium=mapframe&utm_source=maps" style="color:#eee;font-size:12px;position:absolute;top:0px;">Минск</a><a href="https://yandex.by/maps/157/minsk/house/Zk4YcwNoT0UPQFtpfXVxeXlkZA==/?indoorLevel=1&ll=27.548008%2C53.908182&utm_medium=mapframe&utm_source=maps&z=15.53" style="color:#eee;font-size:12px;position:absolute;top:14px;">Проспект Победителей, 9 — Яндекс Карты</a><iframe src="https://yandex.by/map-widget/v1/-/CCU6nAuKsC" class="karta" frameborder="1" allowfullscreen="true" style="position:relative;"></iframe></div>
+</div>
+<div class="container-fluid resume_block">
+   
+   <div class="resume__text">
+      <p class="zagolovok3">Стань частью нашей команды!</p>
+     <p class="text4">Отправляй своё резюме с фото нам на почту и мы тебе обязательно ответим</p>
+      <button class="button" type="button"><a href="#" class="pochta">info@snake.by</a></button>
+   </div>
+</div>
+</main>
+<footer class="container-fluid">
+<hr class="line">
+<div class="row">
+  <div class="col-4">
+          <p class="adres_footer">Задать вопрос</p>
+          <p class="adres_footer"><a href="#" class="pochta2">info@snake.by</a></p>
+  </div>
+    <div class="col-4">
+          <p class="adres_footer">Главный офис</p>
+          <p class="adres_footer">г. Минск, ул. Немига 5</p>
+  </div>
+    <div class="col-4">
+          <p class="adres_footer">По вопросам работы</p>
+          <p  class="adres_footer"><a href="#" class="pochta2">rabota@snake.by</a></p>
+  </div>
+</footer>
+</body>
+</html>

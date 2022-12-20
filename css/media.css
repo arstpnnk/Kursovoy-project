@@ -1,0 +1,1026 @@
+@media (min-width: 2012px){
+	ul{
+		font-size: 48px;
+	}
+	.nav-item{
+		margin-right: 140px;
+	}
+	.img1{
+		height: 500px;
+	}
+	.text{
+		font-size: 48px;
+		width: 1000px;
+	}
+	.img3:first-child, .menu{
+		margin-left: 12%;
+	}
+	.menu:first-child{
+		margin-left: 45%;
+	}
+	.coffee_title{
+		margin-left: 690px;
+	}
+	.zagolovok2{
+		font-size: 72px;
+	}
+	p.adres{
+		font-size: 32px;
+	}
+	.resume__text > .button{
+margin-left: 800px;
+margin-bottom: 70px;
+}
+	.form{
+    width: 300px;
+    margin-bottom: 15px;
+    border: 5px solid #000000;
+    border-radius: 10px;
+    }
+    .form_comm{
+	width: 400px;
+	margin-bottom: 15px;
+	border: 5px solid #000000;
+    border-radius: 10px;
+    }
+    .button_form{
+border: 5px solid #000000;
+border-radius: 10px;
+width: 150px;
+height: 70px;
+}
+.button_text{
+font-size: 24px;
+color: #FFFFFF;
+margin-bottom: 0px;
+}
+.manager{
+    font-size: 60px;
+}
+.info{
+	font-size: 42px;
+}
+.text6{
+font-size: 36px;
+}
+.text7{
+font-size: 48px;
+margin-bottom: 30px;
+}
+.text9{
+	font-size: 36px;
+	margin-bottom: 90px;
+}
+.breadcrumb1{
+font-size: 48px;
+}
+.breadcrumb2{
+font-size: 48px;
+}
+}
+@media (min-width: 1758px){
+    ul{
+		font-size: 40px;
+	}
+	.nav-item{
+		margin-right: 120px;
+	}
+    .zagolovok2{
+		font-size: 52px;
+	}
+    p.adres{
+		font-size: 32px;
+	}
+	.resume__text > .button{
+margin-left: 700px;
+margin-bottom: 70px;
+}
+	.breadcrumb1{
+font-size: 40px;
+}
+.breadcrumb2{
+font-size: 40px;
+}
+}
+@media (max-width: 1498px ){
+	ul{
+		font-size: 24px;
+	}
+	.nav-item{
+		margin-right: 90px;
+	}
+	.text{
+		font-size: 30px;
+		left: 540px;
+	}
+	.vl{
+		left: 360px;
+		width: 240px;
+		top:  340px;
+	}
+	.resume__text > .button{
+margin-left: 580px;
+margin-bottom: 80px;
+}
+	.coffee_text{
+		left:  -50px;
+    }
+    .text8{
+    font-size: 28px;
+    }
+    .title{
+	color: white;
+	font-size: 28px;
+}
+.text2{
+  font-size: 20px;
+  color: white;
+}
+}
+@media(max-width:  1302px){
+	ul{
+		font-size: 20px;
+	}
+	.nav-item{
+		margin-right: 70px;
+	}
+	.text{
+		font-size: 20px;
+		left: 390px;
+	}
+	.vl{
+		left: 290px;
+		width: 150px;
+		top:  290px;
+	}
+	.resume__text > .button{
+margin-left: 480px;
+margin-bottom: 90px;
+}
+    .title_exe{
+    	font-size: 40px;
+    }
+    .text5{
+    	font-size: 28px;
+    }
+    .manager{
+    	font-size: 40px;
+    }
+    .info{
+    	font-size: 28px;
+    }
+    .cont1{
+    	font-size: 28px;
+    }
+    .cont2{
+    	font-size: 22;
+    }
+    .zagolovok2{
+		font-size: 40px;
+	}
+	p.adres{
+		font-size: 28px;
+	}
+	.resume__text > .zagolovok3{
+		font-size: 40px;
+	}
+	.resume__text > .text4{
+		font-size: 28px;
+	}
+	.text6{
+    font-size: 28px;
+    }
+    .text9{
+	font-size: 28px;
+	margin-bottom: 80px;
+}
+}
+@media(max-width: 1129px){
+	.title_exe{
+		font-size: 36px;
+	}
+	ul{
+		font-size: 16px;
+	}
+	.nav-item{
+		margin-right: 55px;
+	}
+	.img1{
+		height: 350px;
+	}
+	.text{
+		font-size: 18px;
+		left: 250px;
+	}
+	.vl{
+		left: 140px;
+		width: 150px;
+		top:  290px;
+	}
+	.zagolovok{
+		font-size: 36px;
+	}
+	.menu_card__title{
+		font-size: 20px;
+	}
+    .zagolovok2{
+		font-size: 36px;
+	}
+	p.adres{
+		font-size: 20px;
+	}
+	.resume__text{
+		left: 85px;
+	}
+	.resume__text > .zagolovok3{
+		font-size: 36px;
+	}
+	.resume__text > .text4{
+		font-size: 24px;
+		height: 100px;
+	}
+	.resume__text > .button{
+    width: 280px;
+    height: 75px;
+    background-color: black;
+    border-radius: 17px;
+    margin-left: 400px;
+    margin-bottom: 90px;
+    }
+    a.pochta{
+	font-size: 32px;
+    }
+    .adres_footer{
+    font-size: 24px;
+    left: 80px;
+    }
+    .text6{
+    font-size: 24px;
+    }
+    .text7{
+font-size: 32px;
+margin-bottom: 20px;
+}
+    .text8{
+font-size: 24px;
+margin-bottom: -2px;
+}
+    .text9{
+	font-size: 24px;
+	margin-bottom: 75px;
+}
+	.breadcrumb1{
+font-size: 18px;
+}
+.breadcrumb2{
+font-size: 18px;
+}
+ .title{
+	color: white;
+	font-size: 24px;
+}
+.text2{
+  font-size: 18px;
+  color: white;
+}
+}
+@media(max-width: 980px){
+	.nav-item{
+		margin-right: 30px;
+	}
+	.img{
+	margin-left: 10px;
+	margin-right: 30px;
+	}
+	.text{
+		font-size: 18px;
+		left: 110px;
+	}
+	.vl{
+		left: 25px;
+		width: 130px;
+		top:  295px;
+	}
+    .zagolovok2{
+		font-size: 32px;
+	}
+	.manager{
+		font-size: 32px;
+	}
+	.info{
+		font-size: 22px;
+	}
+	.text5{
+		font-size: 22px;
+	}
+	.form{
+    width: 200px;
+    margin-bottom: 12px;
+    border: 3px solid #000000;
+    border-radius: 7px;
+    }
+    .form_comm{
+	width: 300px;
+	margin-bottom: 12px;
+	border: 3px solid #000000;
+    border-radius: 7px;
+    }
+    .button_form{
+border: 3px solid #000000;
+border-radius: 7px;
+width: 100px;
+height: 35px;
+}
+.button_text{
+font-size: 16px;
+}
+    .cont_img{
+    	width: 30px;
+    	height: 30px;
+    }
+    .cont1{
+    	font-size: 22px;
+    	margin: 0px 0px 0px 0px;
+    }
+    .cont2{
+    	font-size: 18px;
+    	margin: 3px 0px 0px 0px;
+    }
+	p.adres{
+		font-size: 14px;
+	}
+	.img4{
+		height: 380px;
+	}
+	.resume__text > .zagolovok3{
+		font-size: 32px;
+	}
+	.resume__text > .text4{
+		font-size: 22px;
+		line-height: 25px;
+		margin-top: 20px;
+	}
+	.resume__text > .button{
+    width: 230px;
+    height: 60px;
+    border-radius: 13px;
+    margin-left: 350px;
+    }
+    a.pochta{
+	font-size: 28px;
+    }
+    .adres_footer{
+    font-size: 20px;
+    left: 80px;
+    }
+    .text6{
+    font-size: 20px;
+    }
+        .text7{
+font-size: 28px;
+margin-bottom: 15px;
+}
+    .text8{
+font-size: 20px;
+margin-bottom: -5px;
+}
+    .text9{
+	font-size: 20px;
+	margin-bottom: 65px;
+}
+}
+@media(max-width: 800px){
+	.img{
+	margin-left: 10px;
+	margin-right: 30px;
+	width: 90px;
+	height: 92px;
+	}
+	.form{
+    width: 150px;
+    margin-bottom: 10px;
+    border: 2px solid #000000;
+    border-radius: 5px;
+    }
+    .form_comm{
+	width: 250px;
+	margin-bottom: 10px;
+	border: 2px solid #000000;
+    border-radius: 5px;
+    }
+    .resume__text > .button{
+    margin-left: 280px;
+    }
+    .manager{
+		font-size: 26px;
+	}
+	.info{
+		font-size: 18px;
+	}
+	.text5{
+		font-size: 18px;
+	}
+	div > .col-md-4{
+		padding: 15px 0px 0px 0px;
+	}
+	 .title{
+	font-size: 18px;
+}
+.text2{
+  font-size: 12px;
+}
+	.text{
+		font-size: 18px;
+		left: 50px;
+		width: 600px;
+		line-height: 30px;
+	}
+	.vl{
+		border: 0px solid;
+	}
+	 .text6{
+    font-size: 18px;
+    margin-bottom: 20px;
+    }
+        .text9{
+	font-size: 16px;
+	margin-bottom: 30px;
+}
+	.breadcrumb1{
+font-size: 16px;
+}
+.breadcrumb2{
+font-size: 16px;
+padding-left: 25px;
+}
+}
+@media(max-width: 735px){
+	.title_exe{
+		font-size: 32px;
+	}
+	.menu_card__title{
+		font-size: 16px;
+		margin-top: 10px;
+	}
+	.resume__text > .zagolovok3{
+		font-size: 32px;
+	}
+	.resume__text > .text4{
+		font-size: 22px;
+		margin-top: 20px;
+		height: 120px;
+	}
+	.resume__text > .button{
+    width: 205px;
+    height: 45px;
+    background-color: black;
+    border-radius: 10px;
+    }
+    a.pochta{
+	font-size: 24px;
+    }
+    .adres_footer{
+    font-size: 16px;
+    left: 80px;
+    }
+   .line{
+   margin-bottom: 70px;
+   border: 2px solid black;
+   background-color: black;
+   margin-top: 100px;
+}
+ .text6{
+    font-size: 16px;
+    margin-bottom: 15px;
+    }
+        .text7{
+font-size: 24px;
+margin-bottom: 15px;
+}
+    .text8{
+font-size: 18px;
+margin-bottom: -10px;
+}
+	.breadcrumb1{
+font-size: 14px;
+}
+.breadcrumb2{
+font-size: 14px;
+padding-left: 15px;
+}
+ol.breadcrumb.bg-white{
+	padding: 5px;
+}
+}
+@media(max-width: 661px){
+   .text{
+		font-size: 18px;
+		left: 50px;
+		width: 450px;
+		line-height: 20px;
+	}
+	.img1{
+		height: 250px;
+	}
+	.zagolovok{
+		margin-top: -50px;
+	}
+	.karta_block{
+    margin-top: 60px;
+    }
+	.karta{
+		height: 250px;
+	}
+	.coffee_block__text > .col-6{
+		width: 230px;
+		margin-top: -20px;
+	}
+}
+@media(max-width: 588px){
+	.zagolovok2{
+		font-size: 24px;
+	}
+		.form{
+    width: 100px;
+    margin-bottom: 5px;
+    border: 1px solid #000000;
+    border-radius: 3px;
+    }
+    .form_comm{
+	width: 200px;
+	margin-bottom: 5px;
+	border: 1px solid #000000;
+    border-radius: 3px;
+    }
+
+    .manager{
+		font-size: 18px;
+	}
+	.info{
+		font-size: 14px;
+	}
+	.text5{
+		font-size: 14px;
+		margin-bottom: 15px;
+	}
+    .coffee_block__text > .col-6{
+		margin-top: -30px;
+	}
+	
+	.cont{
+		margin-top: 30px;
+		margin-bottom: 8px;
+	}
+	.cont1{
+		font-size: 18px;
+	}
+	.cont2{
+		font-size: 14px;
+	}
+	.cont_img{
+		width: 20px;
+		height: 20px;
+	}
+	p.adres{
+		font-size: 12px;
+	}
+	.img4{
+		height: 230px;
+	}
+	.resume__text > .zagolovok3{
+		font-size: 28px;
+	}
+	.resume__text > .text4{
+		font-size: 18px;
+		margin-top: 10px;
+		height: 80px;
+	}
+	.resume__text > .button{
+    margin-bottom: 30px;
+    margin-left: 170px;
+    }
+     a.pochta{
+	font-size: 18px;
+    }
+     .adres_footer{
+    font-size: 14px;
+    left: 80px;
+    }
+   .line{
+   margin-bottom: 60px;
+   border: 1px solid black;
+   background-color: black;
+   margin-top: 80px;
+   }
+   .text6{
+font-size: 14px;
+margin-bottom: 10px;
+}
+}
+@media(max-width: 588px){
+	   .text6{
+font-size: 16px;
+margin-bottom: 15px;
+}
+}
+@media(max-width: 509px){
+	.text{
+		font-size: 16px;
+		left: 30px;
+		width: 400px;
+		line-height: 20px;
+		margin-top: -50px;
+	}
+	.zagolovok2{
+		font-size: 22px;
+		margin-bottom: -60px;
+	}
+
+.text2{
+  line-height: 11px;
+}
+	p.adres{
+		font-size: 10px;
+	}
+	.adres_footer{
+    font-size: 12px;
+    left: 80px;
+    }
+    .resume__text > .button{
+    width: 150px;
+    height: 50px;
+    background-color: black;
+    border-radius: 7px;
+    margin-left: 170px;
+    margin-bottom: 15px;
+    }
+    .title{
+	font-size: 16px;
+}
+.text2{
+  font-size: 10px;
+}
+.karta{
+	width: 100%; 
+	height: 250px;
+}
+
+.karta_block{
+	overflow:hidden; 
+    margin-top: 50px;
+}
+}
+@media(max-width: 457px){
+	.img{
+	width: 60px;
+	height: 62px;
+	}
+	.img1{
+		height: 200px;
+	}
+	.table-otst{
+  width: 0px;
+}
+.title{
+	font-size: 12px;
+}
+.text2{
+  font-size: 8px;
+}
+	.text{
+		font-size: 16px;
+		left: 20px;
+		width: 380px;
+		line-height: 18px;
+		margin-top: -85px;
+	}
+	h1.zagolovok{
+		margin-top: -90px;
+		font-size: 24px;
+	}
+	.zagolovok{
+		font-size: 24px;
+	}
+	 .row > .col-4{
+    	padding: 12px;
+    }
+    .title_exe{
+		font-size: 24px;
+	}
+	.menu_card__img{
+		margin-top: -30px;
+	}
+	.menu_card__title{
+		font-size: 12px;
+	}
+	p.adres{
+		font-size: 9px;
+	}
+	.karta{
+		height: 180px;
+	}
+	.karta_block{
+    margin-top: 35px;
+    margin-bottom: 50px;
+    }
+	.resume__text > .zagolovok3{
+		font-size: 22px;
+	}
+	.resume__text > .text4{
+		font-size: 14px;
+		line-height: 15px;
+		margin-top: 10px;
+		height: 50px;
+	}
+	.resume__text > .button{
+    width: 130px;
+    height: 35px;
+    background-color: black;
+    border-radius: 5px;
+    margin-left: 150px;
+    }
+     a.pochta{
+	font-size: 14px;
+    }
+    .zagolovok2{
+		font-size: 24px;
+		left: -20px;
+	}
+     .text6{
+    margin-bottom: 7px;
+    font-size: 14px;
+    }
+    .manager{
+    	font-size: 12px;
+    	margin-bottom: 1px;
+    	margin-top: 1px;
+    }
+    .contact{
+    	margin-top: 3px;
+    }
+    .cont1{
+    	font-size: 14px;
+    }
+    .cont2{
+    	font-size: 12px;
+    }
+    .info{
+    	font-size: 12px;
+    }
+    .text5{
+    font-size: 12px;
+    }
+    .cont{
+    	margin-top: -40px;
+    }
+    	.form{
+    width: 100px;
+    margin-bottom: 2px;
+    }
+    .form_comm{
+	width: 180px;
+	margin-bottom: 2px;
+    }
+    div > .form_contact{
+    	padding: 0px 0px 0px 15px;
+    }
+        .text7{
+font-size: 22px;
+margin-bottom: 0px;
+}
+    .text8{
+font-size: 16px;
+margin-bottom: -10px;
+}
+    .text9{
+	font-size: 15px;
+	margin-bottom: 15px;
+}
+}
+@media(max-width: 400px){
+    .img{
+	width: 50px;
+	height: 52px;
+	}
+	.img1{
+		height: 180px;
+	}
+	.text{
+		font-size: 14px;
+		left: 15px;
+		width: 330px;
+		line-height: 14px;
+		margin-top: -85px;
+	}
+	h1.zagolovok{
+		margin-top: -110px;
+		font-size: 20px;
+	}
+	.zagolovok{
+		font-size: 20px;
+	}
+	.title_exe{
+		font-size: 20px;
+	}
+	.menu_card__img{
+		margin-top: -35px;
+	}
+	.menu_card__title{
+		font-size: 10px;
+	}
+	p.adres{
+		font-size: 7px;
+	}
+	.karta{
+		height: 150px;
+	}
+	.karta_block{
+    margin-top: 25px;
+    }
+    .zagolovok2{
+    	font-size: 20px;
+    }
+    .title{
+	font-size: 11px;
+}
+.text2{
+  font-size: 7px;
+}
+    .img4{
+		height: 150px;
+	}
+	.resume__text > .zagolovok3{
+		font-size: 20px;
+		margin-top: 30px;
+		height: 40px;
+	}
+	.resume__text > .text4{
+		font-size: 12px;
+		margin-top: 10px;
+		height: 30px;
+	}
+	.resume__text > .button{
+    width: 100px;
+    height: 25px;
+    background-color: black;
+    border-radius: 5px;
+    margin-left: 140px;
+    }
+     a.pochta{
+	font-size: 12px;
+    }
+    .line{
+   margin-bottom: 35px;
+   margin-top: 50px;
+   }
+   .adres_footer{
+    font-size: 10px;
+    left: 80px;
+    line-height: 10px;
+    }
+	.breadcrumb1{
+font-size: 12px;
+}
+.breadcrumb2{
+font-size: 12px;
+padding-left: 5px;
+}
+}
+@media(max-width: 376px){
+	.info{
+	font-size: 10px;
+	}
+	.cont_img{
+		width: 15px;
+		height: 15px;
+	}
+	.cont1{
+		font-size: 12px;
+	}
+	.cont2{
+		font-size: 10px;
+	}
+	div > .contact{
+		padding-right: 0px;
+	}
+    .manager{
+    	margin-top: 1px;
+    }
+    .text6{
+    	font-size: 12px;
+    	margin-bottom: 3px;
+    }
+    .text7{
+font-size: 18px;
+margin-bottom: 0px;
+}
+    .text8{
+font-size: 12px;
+margin-bottom: -7px;
+}
+}
+@media(max-width: 350px){
+	 .img{
+	width: 40px;
+	height: 42px;
+	}
+	.img1{
+		height: 150px;
+	}
+	.text{
+		font-size: 12px;
+		left: 15px;
+		width: 270px;
+		line-height: 10px;
+		margin-top: -110px;
+	}
+	h1.zagolovok{
+		font-size: 18px;
+	}
+	.zagolovok{
+		font-size: 18px;
+	}
+	.title_exe{
+		font-size: 18px;
+	}
+	.menu_card__title{
+		margin-top: -1px;
+	}
+	    .img2{
+    	margin-top: -40px;
+    }
+    .zagolovok2{
+    	font-size: 18px;
+    	margin-top: -10px;
+    }
+	p.adres{
+		font-size: 7px;
+		line-height: 8px;
+	}
+	.row > .col-4{
+    	padding: 8px;
+    }
+	.karta_block{
+    margin-top: 15px;
+    }
+    .resume__text{
+		left: 45px;
+	}
+	.resume__text > .zagolovok3{
+		font-size: 18px;
+		margin-top: 30px;
+		height: 40px;
+	}
+	.resume__text > .text4{
+		font-size: 10px;
+		margin-top: 10px;
+		height: 25px;
+	}
+	.resume__text > .button{
+    margin-left: 110px;
+    }
+}
+@media(max-width: 321px){
+    .zagolovok2{
+    	font-size: 18px;
+    }
+    .row > .col-3{
+    	margin-top: -40px;
+    	padding: 5px 5px 5px 8px;
+    }
+    .img4{
+    	height: 120px;
+    }
+	.line{
+   margin-top: 35px;
+   }
+   .adres_footer{
+    font-size: 8px;
+    line-height: 8px;
+    }
+    .row > .col-4{
+    	padding: 5px;
+    }
+    .row > .col-3{
+    padding-top: 0px;
+    margin-top: 2px;
+    }
+    .text6{
+    	font-size: 11px;
+    	margin-bottom: 2px;
+    }
+     .text7{
+font-size: 16px;
+margin-bottom: 0px;
+}
+    .text8{
+font-size: 11px;
+margin-bottom: -3px;
+}
+    .text9{
+	font-size: 11px;
+}
+.resume__text > .button{
+    margin-left: 100px;
+    }
+}
